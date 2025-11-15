@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ali-mohamed-2299b4326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AliMohamed-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ali-mohamed-2299b4326/)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A800&size=24&center=true&vCenter=true&lines=✨+Keep+Learning+—+Keep+Building+—+Keep+Growing+✨)](https://git.io/typing-svg)
