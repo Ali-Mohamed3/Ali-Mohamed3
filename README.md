@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Ali Mohamed
 
-## 🚀 Flutter Developer and Competitive Programmer
+Hi, I'm Ali Mohamed. I'm a Flutter developer and competitive programmer who enjoys building simple, efficient mobile apps and solving algorithmic problems. I work mainly with Flutter, Dart, and C++, and I'm always learning and improving my skills.
+
+## 🚀 More about me
 
 - 💙 Flutter developer with strong UI/UX sense
 - 🧠 Competitive programmer (C++)
@@ -14,6 +16,17 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,html,css,firebase,git,github" /> </p>
 
 ---
+
+## 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
+
 
 ## 📱 Flutter Skills
 
