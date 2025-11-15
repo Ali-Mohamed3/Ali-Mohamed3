@@ -13,15 +13,15 @@ Hi, I'm Ali Mohamed. I'm a Flutter developer and competitive programmer who enjo
 ---
 
 ## 🛠️ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,html,css,firebase,git,github" /> </p>
+<p align="ceter"> <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,html,css,firebase,git,github" /> </p>
 
 ---
 
 ## 🛠 Tools
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: brightness(0) invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
