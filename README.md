@@ -33,5 +33,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AliMohamed-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ali-mohamed-2299b4326/)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7A800&size=24&center=true&vCenter=true&lines=✨+Keep+Learning+—+Keep+Building+—+Keep+Growing+✨)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Keep+Learning;Keep+Building;Keep+Growing" alt="Typing SVG" />
+</p>
+
 
