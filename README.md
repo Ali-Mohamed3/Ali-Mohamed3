@@ -20,7 +20,7 @@ Hi, I'm Ali Mohamed. I'm a Flutter developer and competitive programmer who enjo
 ## 🛠 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,html,css,firebase,git,github,vs-code,androidstudio,postman,clion" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vs-code,androidstudio,postman,clion" />
 
 </p>
 
