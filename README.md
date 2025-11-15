@@ -12,7 +12,7 @@ Hi, I'm Ali Mohamed. I'm a Flutter developer and competitive programmer who enjo
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,html,css,firebase,git,github" /> </p>
 
 ---
