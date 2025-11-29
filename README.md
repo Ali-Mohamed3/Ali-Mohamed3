@@ -35,8 +35,7 @@ Hi, I'm Ali Mohamed. I'm a Flutter developer and competitive programmer who enjo
 - 🧩 MVC / Clean Architecture
 - 🎨 Custom UI & Responsive Design
 
-## GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ali-Mohamed&show_icons=true&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Mohamed&hide_border=true" /> </p>  
+
 
 ---
 
