@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Mobile+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;1300%2B+Competitive+Programming+Problems+%F0%9F%A7%A0;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
 </a>
 <br/>
-<!-- Profile Views & Social Badges -->
-Show Image
 </div>
 
 ---
