@@ -1,50 +1,48 @@
-# 👋 Hi, I'm Ali Mohamed
+# Hi there, I'm Ali Mohamed Ali 👋
 
-Hi, I'm Ali Mohamed. I'm a Flutter developer and competitive programmer who enjoys building simple, efficient mobile apps and solving algorithmic problems. I work mainly with Flutter, Dart, and C++, and I'm always learning and improving my skills.
-
-## 🚀 More about me
-
-- 💙 Flutter developer with strong UI/UX sense
-- 🧠 Competitive programmer (C++)
-- 🎨 Love clean, minimal, modern design
-- ⚡ Enjoy building animations & smooth interactions
-- 🔥 Always learning and shipping projects  
+[cite_start]I am a **Junior Flutter Developer** and **Computer Science Student** based in Egypt[cite: 1, 3]. [cite_start]Currently, I am honing my skills as an **Android Native Intern** at the **Digital Egypt Pioneers Initiative (DEPI)**[cite: 4, 14]. [cite_start]I am passionate about building impactful, stable, and scalable mobile applications while continuously expanding my technical horizons[cite: 6, 17].
 
 ---
 
-## 🛠️ Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,html,css,firebase,git,github" /> </p>
+### 🚀 About Me
+
+- [cite_start]🎓 **Education**: Pursuing a degree in Computer Science at **Qena University** (Major: Mobile Development).
+- [cite_start]💡 **Current Focus**: Building stable, reliable, and maintainable mobile apps using Java and Kotlin[cite: 17].
+- [cite_start]🏆 **Competitive Programming**: Solved **1300+ problems** and qualified for **ECPC**, demonstrating strong logic and complex problem-solving skills[cite: 5, 35].
+- [cite_start]🌍 **Languages**: Arabic (Native) and English (B1)[cite: 45, 46].
 
 ---
 
-## 🛠 Tools
+### 🛠️ Technical Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,androidstudio,postman,clion&perline=7"/>
+| Category | Skills |
+| :--- | :--- |
+| **Flutter Development** | [cite_start]Dart (Basics & OOP), Flutter Widgets, State Management, API & Data Handling [cite: 39] |
+| **Android Native** | [cite_start]Java (Basics & OOP), Kotlin (Basics & OOP) [cite: 42] |
+| **Architecture** | [cite_start]MVVM, MVC, Clean File Organization, Separating Logic from Design [cite: 22, 23] |
+| **Problem Solving** | [cite_start]C++, Data Structures, Searching Algorithms (e.g., Binary Search) [cite: 34, 43] |
 
+---
 
+### 📊 My Stats & Activity
+
+![Animate Profile](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
 
-## 📱 Flutter Skills
+### 📫 Let's Connect!
 
-- 📦 Flutter Widgets
-- 🔄 Navigation & Route Management
-- 🎞️ Explicit & Implicit Animations
-- ☁️ Firebase & Firestore
-- 🧩 MVC / Clean Architecture
-- 🎨 Custom UI & Responsive Design
-
-
+- [cite_start]📍 Based in **Egypt** [cite: 1]
+- [cite_start]💼 Currently an intern at **DEPI** [cite: 14]
+- [cite_start]🎯 Aiming to build **scalable and impactful** mobile solutions [cite: 6, 17]
 
 ---
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AliMohamed-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ali-mohamed-2299b4326/)
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=435&lines=Keep+Learning;Keep+Building;Keep+Growing" alt="Typing SVG" />
+  [cite_start]<i>"Passionate about building impactful mobile applications and continuous learning."</i> [cite: 6]
 </p>
-
-
