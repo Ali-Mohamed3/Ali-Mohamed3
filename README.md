@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ali%20Mohamed%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20CS%20Student%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ali%20Mohamed%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=a78bfa"/>
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Mobile+Developer+%F0%9F%93%B1;Software+Engineer+%F0%9F%92%BB;1300%2B+Competitive+Programming+Problems+%F0%9F%A7%A0;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
